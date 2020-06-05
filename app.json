@@ -1,0 +1,15 @@
+{
+    "id": "b22518d1-a4cd-472a-bf0e-4e2f3bc49dd4",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Aryan Koul",
+        "homepage": "NA",
+        "support": "NA"
+    },
+    "name": "uber",
+    "nameSlug": "uber",
+    "classFile": "UberApp.ts",
+    "description": "Slash command for calling uber ride directly from Rocket.Chat interface"
+}
